@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["1"],
+        "ACTIVITY_TEXT": "Developed By Htryn",
+        "GUILD_ID": "560877655793205269",
+        "VOICE_CHANNEL": "560877655793205273",
+        "MIN_STAFF_ROLE": "560877655793205269"
+    },
+    "FILES": {
+        "WELCOME": "Hosgeldin.mp3",
+        "STAFF": "Yetkili.mp3"
+    },
+    "TOKEN": ""
+}
